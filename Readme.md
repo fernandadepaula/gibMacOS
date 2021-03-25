@@ -1,3 +1,6 @@
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7cf39961682844aa97f0e9d32ec57580)](https://app.codacy.com/gh/fernandadepaula/gibMacOS?utm_source=github.com&utm_medium=referral&utm_content=fernandadepaula/gibMacOS&utm_campaign=Badge_Grade_Settings)
+
 Py2/py3 script that can download macOS components direct from Apple
 
 Can also now build Internet Recovery USB installers from Windows using [dd](http://www.chrysocome.net/dd) and [7zip](https://www.7-zip.org/download.html).
